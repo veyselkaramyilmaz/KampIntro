@@ -25,7 +25,7 @@ namespace DegerVeReferasTipler
             sayilar2[0] = 999;
             //sayiar1[0] ?
 
-
+            Console.WriteLine("merhaba");
 
         }
     }
